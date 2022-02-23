@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on Computer Graphics (simulation, rendering) and Digital Twins Modeling.
+- 🤔 I am a master student in control engineering.
+- 📫 How to reach me: lil-kotyo@sjtu.edu.cn.
+- 👯 Contact me if you are interested in graphics and have related topics to discuss!
+
+![](https://github-readme-stats.vercel.app/api?username=LILKOTYO&theme=dark)
