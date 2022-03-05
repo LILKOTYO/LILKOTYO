@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 - 👯 Contact me if you are interested in graphics and have related topics to discuss!
 
 ![](https://github-readme-stats.vercel.app/api?username=LILKOTYO&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=wsfuller&count_private=true&show_icons=true&theme=prussian)
