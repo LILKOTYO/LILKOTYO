@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: lil-kotyo@sjtu.edu.cn.
 - 👯 Contact me if you are interested in graphics and have related topics to discuss!
 
-![](https://github-readme-stats.vercel.app/api?username=LILKOTYO&theme=dark)
+
